@@ -1,0 +1,27 @@
+# Carpetas generadas por Visual Studio Code
+.vscode/
+
+# Archivos de configuración de Visual Studio Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Carpeta de caché de JavaScript/TypeScript
+node_modules/
+
+# Archivos de registro generados por npm
+npm-debug.log*
+
+# Carpeta de caché de TypeScript
+*.tsbuildinfo
+
+# Carpeta de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración de macOS
+.DS_Store
+
+# Carpeta de caché de Windows
+Thumbs.db
